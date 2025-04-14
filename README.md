@@ -1,7 +1,5 @@
 # CyberWhale_Cybersecurity_Reference🛡️💻
 
-# Полезные ресурсы для кибербезопасности и пентеста 🛡️💻
-
 ## Операционные системы для пентеста и анализа 🔧
 - [Kali Linux](https://www.kali.org/) – Лучшая ОС для пентеста.  
 - [Parrot OS](https://www.parrotsec.org/) – Аналог Kali с акцентом на приватность.  
