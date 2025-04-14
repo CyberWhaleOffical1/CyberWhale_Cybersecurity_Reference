@@ -1,7 +1,8 @@
 # CyberWhale_Cybersecurity_Reference🛡️💻
 
 ## Операционные системы для пентеста и анализа 🔧
-- **Kali Linux** – Лучшая ОС для пентеста.  
+- **[Kali Linux](https://www.kali.org/) – Лучшая ОС для пентеста.
+** – Лучшая ОС для пентеста.  
 - **Parrot OS** – Аналог Kali с акцентом на приватность.  
 - **BlackArch** – Arch Linux с 3000+ инструментами.  
 - **Commando VM** – Windows-среда для анализа вредоносного ПО.  
